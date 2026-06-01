@@ -1,6 +1,6 @@
 import os
 
-#Startup process
+#Startup process...
 #author Adam Beke.
 def netCheck():
     print('Welcome To NetCheck.')
